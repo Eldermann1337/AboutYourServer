@@ -1,0 +1,8 @@
+name: Servername
+version: 3.0.0
+author: Eldermann1337
+website: Your website goes here
+api:
+  - 3.0.0
+description: The text about your server goes here
+main: Eldermann1337\AboutYourServer\main
